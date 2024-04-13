@@ -1,7 +1,7 @@
 ## Bem vindo ao meu mundo! Sou Jeferson Hely, entusiasta do desenvolvimento! 👋
 
 ### <p>Cursos:</p>
-<p>Curso de Desenvolvimento Fullstark<a href="https://www.dio.me/" target="Dio">Dio - em curso</a></p><br>
+<p>Curso de Desenvolvimento Fullstark <a href="https://www.dio.me/" target="Dio">Dio - em curso</a></p><br>
 
 ### <p>Formação Academica:</p>
 <p>Analise e Desenvolvimento de Sistemas <a href="https://www.anhanguera.com/" target="Anhanguera">Faculdade Anhanguera - em curso</a></p>
